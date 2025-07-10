@@ -19,7 +19,7 @@ This project is a Spring Boot-based RESTful API built to manage Learning Managem
 ## 🧰 Tech Stack
 
 - Java 17
-- Spring Boot 3.x
+- Spring Boot 2.x
 - Spring Data JPA
 - Hibernate Validator
 - PostgreSQL (or H2 for testing)
